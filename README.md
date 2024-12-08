@@ -18,6 +18,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| [First PowerBI]([https://github.com/katiehuangx/Maven-Unicorn-Challenge](https://github.com/itsmariaaa/Power-BI)) | My first projects with PowerBI | - |
+| [First PowerBI](https://github.com/itsmariaaa/Power-BI) | My first projects with PowerBI | - |
 
 ***
